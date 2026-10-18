@@ -1,5 +1,7 @@
 # Harness Design Skills
 
+> **📦 최신 버전은 [kkh2114/claude-skills-public](https://github.com/kkh2114/claude-skills-public)으로 옮겨졌습니다.** 이 저장소의 스킬과 다른 공개 스킬이 한곳에 모여 있고, 앞으로는 그곳만 업데이트됩니다. (The latest versions now live in [claude-skills-public](https://github.com/kkh2114/claude-skills-public).)
+
 Claude Code custom skills for designing agent "harness" workspaces (project structures agents operate inside), plus a Cartesian-method review skill.
 
 ## Skills included
